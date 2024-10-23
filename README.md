@@ -13,4 +13,3 @@ Topics covered:
     Data wrangling
     Data exploration
     Data analysis
-
